@@ -4,9 +4,9 @@
     "name": "Solisus",
     "auto-night-skip": "false",
     "prefix": "",
-    "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
+    "login-enabled": "false",
+    "register-cmd": "",
+    "login-cmd": "",
     "loginmsg": "hai",
     "auto-reconnect": "true"
 }
