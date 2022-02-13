@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
+    "ip": "Jan12.aternos.me",
+    "port": "24072",
     "name": "katy",
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "loginmsg": "hai",
     "auto-reconnect": "true"
 }
