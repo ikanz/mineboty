@@ -1,0 +1,12 @@
+{
+    "ip": "NgakTauSmp.aternos.me",
+    "port": "31708",
+    "name": "Wuhe",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "false",
+    "register-cmd": "",
+    "login-cmd": "",
+    "loginmsg": "hai",
+    "auto-reconnect": "true"
+}
